@@ -1,4 +1,5 @@
 /.idea/
 /virualenv/
+/__pycache__/
 
 local_setting.py
